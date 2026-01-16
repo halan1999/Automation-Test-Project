@@ -4,7 +4,6 @@
 This repository demonstrates automated UI testing using Playwright with Pytest, integrated with GitHub Actions for CI/CD.
 
 
-
 ## 🛠 Tools & Technologies
 
 - [Playwright](https://playwright.dev/)
